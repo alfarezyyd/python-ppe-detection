@@ -10,3 +10,6 @@ ultralytics
 roboflow
 python-dotenv
 icrawler
+tf2onnx
+onnx
+onnxruntime
