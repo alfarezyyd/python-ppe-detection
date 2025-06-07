@@ -9,6 +9,12 @@
 - [**Aditya Alfarezy Damanik**](https://www.github.com/)  
   _2210631250037_
 
+## Related Link
+
+- [Dataset Vest](https://universe.roboflow.com/mainel/vest-cye3g)
+- [Laporan UAS](https://docs.google.com/document/d/1Af-wU06vOFDZHdqPS0KJ_9QTKGA6iUvTd2lBjKeU0wA/edit?usp=sharing)
+- [GitHub Repository](https://github.com/alfarezyyd/python-ppe-detection)
+
 ## 🌟 Noble Purpose (Tujuan Mulia)
 
 In the workplace, safety is a fundamental right for every individual. Through an intelligent and automated Personal Protective Equipment (PPE) detection system, this project aims to:
@@ -52,6 +58,16 @@ Install dependencies
   pip install -r requirements.txt
 ```
 
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`API_KEY`
+
+## Screenshots
+
+![App Screenshot]()
+
 ## Support
 
 For support, email adityaalfarezyrezy@gmail.com.
@@ -61,7 +77,3 @@ For support, email adityaalfarezyrezy@gmail.com.
 Contributions are always welcome!
 
 Feel free to raise issues and enhancement requests!
-
-## Acknowledgements
-
-- [Dataset Vest](https://universe.roboflow.com/mainel/vest-cye3g)
