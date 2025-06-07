@@ -6,16 +6,7 @@
 
 ## 👋 Manpower
 
-- [**Azizah Pauziah**](https://www.github.com/)  
-  _2210631250037_
-
-- [**Nasywa Syifa Hanifah**](https://www.github.com/)  
-  _2210631250037_
-
 - [**Aditya Alfarezy Damanik**](https://www.github.com/)  
-  _2210631250037_
-
-- [**Vernanda Ayu Prastika**](https://www.github.com/)  
   _2210631250037_
 
 ## 🌟 Noble Purpose (Tujuan Mulia)
