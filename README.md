@@ -58,6 +58,15 @@ Install dependencies
   pip install -r requirements.txt
 ```
 
+## Current Device
+
+      Model Name: MacBook Air
+      Model Identifier: MacBookAir10,1
+      Model Number: MGN63ID/A
+      Chip: Apple M1
+      Total Number of Cores: 8 (4 performance and 4 efficiency)
+      Memory: 8 GB
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
