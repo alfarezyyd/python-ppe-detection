@@ -67,6 +67,50 @@ Install dependencies
       Total Number of Cores: 8 (4 performance and 4 efficiency)
       Memory: 8 GB
 
+## Project Structure
+
+    .
+    ├── README.md
+    ├── build
+    │   ├── best_vest_model.h5
+    │   └── best_vest_model.onnx
+    ├── images
+    │   └── vest_ppe
+    ├── dataset
+    │   └── test
+    |     ├── images
+    │     └── labels
+    └── train
+    |     ├── images
+    │     └── labels
+    └── valid
+    |     ├── images
+    │     └── labels
+    ├── media
+    │   └── output.png
+    ├── requirements.txt
+    ├── runs
+    │   └── detect
+    │   ├── yolo_comparison_model
+    │   │   ├── args.yaml
+    │   │   └── weights
+    │   └── yolo_comparison_model2
+    │   ├── args.yaml
+    │   ├── labels.jpg
+    │   ├── labels_correlogram.jpg
+    │   ├── train_batch0.jpg
+    │   ├── train_batch1.jpg
+    │   ├── train_batch2.jpg
+    │   └── weights
+    ├── src
+    │   ├── crawl-image.ipynb
+    │   ├── preparation.ipynb
+    │   ├── train-with-cnn.ipynb
+    │   └── train-with-yolo.ipynb
+    └── yolo11n.pt
+
+    12 directories, 27 files
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
