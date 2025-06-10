@@ -6,8 +6,14 @@
 
 ## 👋 Manpower
 
+- [**Azizah Pauziah**](https://www.github.com/)  
+  _2210631250006_
+- [**Nasywa Syifa Hanifah**](https://www.github.com/)  
+   _2210631250023_
 - [**Aditya Alfarezy Damanik**](https://www.github.com/)  
-  _2210631250037_
+   _2210631250037_
+- [**Vernanda Ayu Prastika**](https://www.github.com/)  
+   _2210631250102_
 
 ## Related Link
 
