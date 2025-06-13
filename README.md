@@ -131,6 +131,11 @@ To run this project, you will need to add the following environment variables to
 
 For support, email adityaalfarezyrezy@gmail.com.
 
+## Gratitude
+- Bpk Taufik Ridwan
+  
+For support, email adityaalfarezyrezy@gmail.com.
+
 ## Contributing
 
 Contributions are always welcome!
